@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.pie{
+    background: #ffffff;
+}
+img{
+    width: 50px;
+}
+.logito{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+
+a{
+    text-decoration: none;
+    font-size: 17px;
+}
+
+p{
+    font-size: 17px;
+}
+
+a:hover{
+    color: #0D6EFD !important;
+}
+
+i{
+    font-size: 27px;
+}
+
+
+
+
